@@ -1,0 +1,730 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"height"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"Har",
+				"Harga"
+			],
+			[
+				"H",
+				"h3"
+			],
+			[
+				"B",
+				"b"
+			],
+			[
+				"C",
+				"center"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"h",
+				"h3"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"co",
+				"col"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"p",
+				"pink"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"imag",
+				"background-image"
+			],
+			[
+				"register",
+				"register_add_action"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"pas",
+				"pass"
+			],
+			[
+				"db_",
+				"db_191110073"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"get_",
+				"get_detail_by_id"
+			],
+			[
+				"set",
+				"set_flashdata"
+			],
+			[
+				"for",
+				"form_validation"
+			],
+			[
+				"news_",
+				"news_title"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"news_pos",
+				"news_posting_by"
+			],
+			[
+				"date_defa",
+				"date_default_timezone_set()"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"functio",
+				"function"
+			],
+			[
+				"def",
+				"def?"
+			],
+			[
+				"coo",
+				"cookie"
+			],
+			[
+				"gl",
+				"glyphicon-lock"
+			],
+			[
+				"_s",
+				"$_SESSION"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"logi",
+				"login_success_view"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"_S",
+				"$_SESSION"
+			],
+			[
+				"login",
+				"login-box-msg"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"content",
+				"content-wrapper"
+			],
+			[
+				"us",
+				"unset_userdata"
+			],
+			[
+				"unset",
+				"unset_userdata"
+			],
+			[
+				"array",
+				"array()"
+			],
+			[
+				"ip-",
+				"ip-username"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"define",
+				"define()"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"m",
+				"margin-left\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"bo",
+				"bootstrap"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"id",
+				"Identitas"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"L",
+				"Laki-laki"
+			],
+			[
+				"th",
+				"th_masuk"
+			],
+			[
+				"session_",
+				"session_start"
+			],
+			[
+				"check",
+				"login_check"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"padin",
+				"padding-top\tproperty"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"session_d",
+				"session_destroy"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"nu",
+				"num_rows"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ses",
+				"session_start"
+			],
+			[
+				"gen",
+				"gender"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"web",
+				"website"
+			],
+			[
+				"nam",
+				"nameErr"
+			],
+			[
+				"hmtl",
+				"htmlspecialchars"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"websi",
+				"websiteErr"
+			],
+			[
+				"ema",
+				"emailErr"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"n",
+				"nameErr"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"stat",
+				"statement"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"bakgr",
+				"background\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"rad",
+				"radio"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"su",
+				"sup\tTag"
+			],
+			[
+				"ima",
+				"border-image\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Eduwork/SriRahayuUsnulKhotimah_freeclass_eduwork.html",
+		"/D/Borobudur 1/Alfamart.html",
+		"/D/Borobudur 1/transaksi_indomart.html",
+		"/D/Borobudur 1/transaksi_ATM.html",
+		"/D/Borobudur 1/transaksi_alfamart.html",
+		"/D/Borobudur 1/tahapan_pembangunan.html",
+		"/D/Borobudur 1/relief.html",
+		"/D/Borobudur 1/rehabilitasi.html",
+		"/D/Borobudur 1/peristiwa_kontenporer.html",
+		"/D/Borobudur 1/penemuan_kembali.html",
+		"/D/Borobudur 1/pemugaran.html",
+		"/D/Borobudur 1/pembayaran_indomart.html",
+		"/D/Borobudur 1/pembayaran_atm.html",
+		"/D/Borobudur 1/pembayaran_alfamart.html",
+		"/D/Borobudur 1/pembangunan.html",
+		"/D/Borobudur 1/maps.html",
+		"/D/Borobudur 1/Indomart.html",
+		"/D/Borobudur 1/home2.html",
+		"/D/Borobudur 1/harga_karcis.html",
+		"/D/Borobudur 1/candi.html",
+		"/D/Borobudur 1/borobudur_ditelantarkan.html",
+		"/D/Borobudur 1/berhasil.html",
+		"/D/Borobudur 1/ATM.html",
+		"/C/xampp1/htdocs/UTS_191110073/cv.php",
+		"/C/xampp1/htdocs/UTS_191110073/index.php",
+		"/C/xampp1/htdocs/web1/index.php",
+		"/C/xampp1/htdocs/web1/table_create.php",
+		"/C/xampp1/htdocs/web1/db_connect.php",
+		"/C/xampp1/htdocs/web1/style/web1.css",
+		"/C/xampp1/htdocs/UTS_191110073/style/UTS_191110073.css",
+		"/C/xampp1/htdocs/web1/db_create.php",
+		"/C/xampp1/htdocs/Web_191110073/application/views/vw_login.php",
+		"/C/xampp1/htdocs/191110073_web/application/config/config.php",
+		"/C/xampp1/htdocs/contoh1/application/views/v_login.php",
+		"/C/xampp1/htdocs/191110073_web/application/views/user.php",
+		"/C/xampp1/htdocs/191110073_web/application/views/create.php",
+		"/C/xampp1/htdocs/191110073_web/application/views/dashboard.php",
+		"/C/xampp1/htdocs/Web_191110073/system/database/DB_driver.php",
+		"/C/xampp1/htdocs/Web_191110073/application/views/vw_home.php",
+		"/C/xampp1/htdocs/portalberita/application/config/database.php",
+		"/C/xampp1/htdocs/portalberita/application/config/config.php",
+		"/C/xampp1/htdocs/portalberita/application/controllers/admin/Pengguna.php",
+		"/C/xampp1/htdocs/portalberita/application/config/autoload.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/models/Produk_model.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/hello_view.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/hello.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/cv_view.php",
+		"/C/xampp1/htdocs/ci4/application/config/config.php",
+		"/C/xampp1/htdocs/crud-php/conf/page.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/template/header.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/template/footer.php",
+		"/C/xampp1/htdocs/ci4/application/config/autoload.php",
+		"/C/xampp1/htdocs/ci4/application/config/database.php",
+		"/C/xampp1/htdocs/ci4/app_test.sql",
+		"/C/xampp1/htdocs/ci4/application/controllers/admin/Login.php",
+		"/C/xampp1/htdocs/ci4/application/controllers/admin/Dashboard.php",
+		"/C/xampp1/htdocs/crud-php/index.php",
+		"/C/xampp1/htdocs/crud-php/pages/mahasiswa/data_mahasiswa.php",
+		"/C/xampp1/htdocs/p12/application/views/user.php",
+		"/C/xampp1/htdocs/WEB_191110073/web_191110073.sql",
+		"/C/xampp1/htdocs/WEB_191110073/application/config/database.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/controllers/Register.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/models/Auth.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/admin/layout/header.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/admin/layout/left_sidebar.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/controllers/User.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/vw_register.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/config/config.php",
+		"/C/xampp1/htdocs/Web/application/config/config.php",
+		"/C/xampp1/htdocs/p12/application/views/siswa/index.php",
+		"/C/xampp1/htdocs/p12/application/config/database.php",
+		"/C/xampp1/htdocs/crud-php/config/database.php",
+		"/C/xampp1/htdocs/crud-php/config/config.php",
+		"/C/xampp1/htdocs/crud-php/conf/conn.php",
+		"/C/xampp1/htdocs/crud-php/pages/user/data_user.php",
+		"/C/xampp1/htdocs/crud-php/conn.php",
+		"/C/xampp1/htdocs/crud-php/pages/mahasiswa/tambah_mahasiswa.php",
+		"/C/xampp1/htdocs/crud-php/pages/mahasiswa/tambah_mahasiswa_procrs.php",
+		"/C/xampp1/htdocs/crud-php/pages/beranda.php",
+		"/C/xampp1/htdocs/contoh2/index.php",
+		"/C/xampp1/htdocs/ci4/.htaccess",
+		"/C/xampp1/htdocs/contoh1/application/controllers/login.php",
+		"/C/xampp1/htdocs/contoh1/malasngoding.sql",
+		"/C/xampp1/htdocs/contoh1/application/config/autoload.php",
+		"/C/xampp1/htdocs/contoh1/application/config/config.php",
+		"/C/xampp1/htdocs/contoh1/application/controllers/admin.php",
+		"/C/xampp1/htdocs/contoh1/application/views/v_admin.php",
+		"/C/xampp1/htdocs/contoh1/application/models/m_login.php",
+		"/C/xampp1/htdocs/ci4/application/models/Login_model.php",
+		"/C/xampp1/htdocs/crud-php/pages/login.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/controllers/contoh.php",
+		"/C/xampp1/htdocs/crud-php/pages/login_process.php",
+		"/C/xampp1/htdocs/crud-php/pages/logout_process.php",
+		"/C/xampp1/htdocs/ci4/application/views/admin/login.php",
+		"/C/xampp1/htdocs/ci4/application/views/admin/user/view.php",
+		"/C/xampp1/htdocs/ci4/application/controllers/admin/User.php",
+		"/C/xampp1/htdocs/ci4/application/controllers/admin/News.php",
+		"/C/xampp1/htdocs/ci4/application/controllers/admin/News_Category.php",
+		"/C/xampp1/htdocs/ci4/application/views/admin/news/add.php",
+		"/C/xampp1/htdocs/ci4/application/models/News_model.php",
+		"/C/xampp1/htdocs/ayu/template/bower_components/fullcalendar/dist/fullcalendar.d.ts",
+		"/C/xampp1/htdocs/ci4/application/models/User_model.php",
+		"/C/xampp1/htdocs/ci4/application/views/admin/dashboard/home.php",
+		"/C/xampp1/htdocs/ci4/application/views/admin/layout/main_header.php",
+		"/C/xampp1/htdocs/ci4/application/views/admin/layout/main_sidebar.php",
+		"/C/xampp1/htdocs/contoh1/application/config/database.php",
+		"/C/xampp1/htdocs/Web_191110073/application/controllers/Login.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/user_add.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/vw_edit.php",
+		"/C/xampp1/htdocs/ci4/application/views/admin/user/add.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/produk/index.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/models/Kategori_model.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/user/index.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/user/create.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/user/edit.php",
+		"/C/xampp1/htdocs/WEB_191110073/assets/css/191110073.css",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/produk/edit.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/kategori/index.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/produk/create.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/kategori/create.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/views/kategori/edit.php",
+		"/C/xampp1/htdocs/WEB_191110073/application/controllers/Kategori.php",
+		"/C/xampp1/htdocs/Web_191110073/application/config/database.php",
+		"/C/xampp1/htdocs/191110073_Web/application/config/config.php",
+		"/C/xampp1/htdocs/p13/application/config/autoload.php",
+		"/C/xampp1/htdocs/p13/application/config/database.php",
+		"/C/xampp1/htdocs/191110073_Web/application/config/autoload.php",
+		"/C/xampp1/htdocs/191110073_Web/application/config/database.php"
+	],
+	"find":
+	{
+		"height": 50.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 50.4
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Kalkulator.sublime-project",
+	"replace":
+	{
+		"height": 97.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
